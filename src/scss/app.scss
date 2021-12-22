@@ -27,3 +27,13 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+div {
+  width: 80px;
+  height: 80px;
+  background-color: rgb(135, 206, 235);
+}
+
+.image {
+  transform: scale(0.7); 
+  background-color: rgb(192, 255, 241);
+}
