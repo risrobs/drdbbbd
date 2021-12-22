@@ -28,12 +28,10 @@ html {
   flex-flow: column;
 }
 div {
-  width: 80px;
-  height: 80px;
-  background-color: rgb(135, 206, 235);
-}
-
-.image {
-  transform: scale(0.7); 
-  background-color: rgb(192, 255, 241);
+  margin: 150px;
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  border: 1px solid black;
+  transform: scaleX(2);
 }
